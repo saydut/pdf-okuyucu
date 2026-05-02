@@ -1,0 +1,1 @@
+﻿magick "icon.png" -resize 256x256 "icon.ico"

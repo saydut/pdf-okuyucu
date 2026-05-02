@@ -1,0 +1,1 @@
+﻿pyinstaller --noconsole --onefile --name "SaydutPdf" --exclude-module PyQt5 --icon "icon.png" "pdf okuyucu.py"
